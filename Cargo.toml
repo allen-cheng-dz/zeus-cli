@@ -1,0 +1,9 @@
+[package]
+name = "zeus-cli"
+version = "0.1.0"
+edition = "2021"
+author = ["allen.cheng.dz@gmail.com"]
+description = "A crate for Nothing."
+license = "MIT"
+
+[dependencies]
